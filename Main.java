@@ -7,7 +7,7 @@ public class Main {
     public static Scanner keyboardInput = new Scanner(System.in);
     public static String[][] students;
     public static int passRecord;
-    // public static int i;
+    
 
     public static double gradeBook(){
 
